@@ -1,0 +1,6 @@
+{
+    "excel_file": "skins.xlsx",
+    "ignore_words": ["Total"],
+    "copy": false,
+    "steam_api_token": ""
+}
